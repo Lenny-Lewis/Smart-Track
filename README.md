@@ -31,18 +31,6 @@ Designed for **scalability and real-time analysis**, this system integrates **ma
 
 ---
 
-## 🏗️ System Architecture
-
-```mermaid id="student_monitor_architecture"
-flowchart TD
-    A[Student Academic Data] --> B[Data Preprocessing]
-    C[Attendance & Behavioral Data] --> B
-    B --> D[Feature Engineering]
-    D --> E[ML Models (Random Forest, XGBoost, Neural Networks)]
-    E --> F[Predicted Risk Scores & Insights]
-    F --> G[Interactive Dashboard]
-    E --> H[Explainable AI (SHAP)]
-```
 
 ---
 
