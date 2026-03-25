@@ -1,7 +1,3 @@
-Here’s a **polished, portfolio-ready README** for your **Student Monitoring ML project**, matching the style of your other repositories:
-
----
-
 # 🎓 AI-Powered Student Monitoring & Predictive Analytics System
 
 <p align="center">
